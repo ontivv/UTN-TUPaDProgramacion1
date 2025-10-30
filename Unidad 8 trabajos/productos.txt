@@ -1,0 +1,4 @@
+Nombre:Chocolate,Precio:1200,Cantidad:10
+Nombre:Medialunas,Precio:900,Cantidad:20
+Nombre:Masa de empanadas,Precio:1300,Cantidad:30
+Nombre:Prepizzas,Precio:1100,Cantidad:30
